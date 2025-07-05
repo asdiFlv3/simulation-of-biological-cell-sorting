@@ -42,4 +42,4 @@ $$
 
 ## Curret problem with the model
 - Visualisation
-- Took way too much step to sort properly
+- Took way too much steps to sort properly
