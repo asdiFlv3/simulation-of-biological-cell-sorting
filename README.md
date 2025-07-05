@@ -40,3 +40,7 @@ $$
 - $\bigl[a(\sigma)-A_{\tau(\sigma)}\bigr]^2$ : A *quadratic penalty* for deviating from the target area.
 - $\lambda$: The Lagrange‐multiplier (or stiffness) that sets how strongly you enforce the area constraint.
 	- **penalizes deviations** of each cell’s area from its target. A larger $\lambda$ makes it energetically very costly for a cell to grow or shrink away from target area​, effectively enforcing near‐constant cell size.
+
+## Curret problem with the model
+- Visualisation
+- Took way too much step to sort properly
