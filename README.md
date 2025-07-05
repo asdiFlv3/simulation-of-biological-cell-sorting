@@ -15,8 +15,8 @@ $$
 cell at the boundary of the cluster will stochastically **attach** or **detach** by one lattice‐site per successful flip, driving the interface toward minimal. 
 - If the energy is lowered, then the flip is always accepted
 - If the energy $\Delta \mathcal{H}$ > 0, there is an acceptance probability. Algorithmly we just randomly choose a number from $[0,1]$ and if this number is smaller than $P_{\text{accept}}$ we accept the flip, otherwise rejected.
-### Lattice anisotropy and neighbor range
-- A simple nearest-neighbor square lattice pins boundaries along lattice directions, slowing sorting. Employing next-nearest neighbors reduces this anisotropy, giving more isotropic cell shapes and more biologically realistic dynamics
+### Lattice anisotropy and neighbour range
+- A simple nearest-neighbour square lattice pins boundaries along lattice directions, slowing sorting. Employing next-nearest neighbours reduces this anisotropy, giving more isotropic cell shapes and more biologically realistic dynamics
 
 ## Energy
 
