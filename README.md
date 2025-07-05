@@ -3,8 +3,7 @@ Model originally from Graner, F. & Glazier, J. A. (1992) Phys. Rev. Lett. 69, 20
 
 cell sorting is a thermodynamic, simultaneous process, using Potts Model, driven by Monte Carlo step(MCS) Process 
 ## Monte Carlo Step
-For temperature $T>0$
-*canonical ensemble* (partition function?)
+For temperature $T>0$, it looks lile *canonical ensemble* (partition function?)
 
 $$
 P(\sigma \to \sigma')=
