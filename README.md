@@ -40,6 +40,6 @@ $$
 - $\lambda$: The Lagrange‐multiplier (or stiffness) that sets how strongly you enforce the area constraint.
 	- **penalizes deviations** of each cell’s area from its target. A larger $\lambda$ makes it energetically very costly for a cell to grow or shrink away from target area​, effectively enforcing near‐constant cell size.
 
-## Curret problem with the model
+## Curret problem with our model
 - Visualisation
 - Took way too much steps to sort properly
